@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://sawiechai.savage.engineer/sitemap.xml
